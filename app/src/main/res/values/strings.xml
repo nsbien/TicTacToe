@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="welcomeMessage">Welcome to Tic Tac Toe! There are two players. Player 1 is represented by a hippo and Player
+        2 is represented by a sheep. The first player to get 3 in a row vertically, horizontally, or diagonally wins. </string>
+    <string name="playButton">PLAY!</string>
+</resources>
